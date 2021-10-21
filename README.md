@@ -1,10 +1,14 @@
-### Hi there 👋
+# Chris Wiles
+[![Linkedin Badge](https://img.shields.io/badge/-Chris%20Wiles-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christopherwiles512/)](https://www.linkedin.com/in/christopherwiles512/) 
 
+## What's up my friends 👋
+I'm Chris Wiles. 
+I'm a tech enthusiast and a passionate about programming
+
+![Chris's github stats](https://github-readme-stats.vercel.app/api?username=ChrisWiles&hide_title=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisWiles&layout=compact&hide_title=true&theme=dark)
 <!--
-**ChrisWiles/ChrisWiles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
